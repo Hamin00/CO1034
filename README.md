@@ -1,3 +1,3 @@
 # CO1034
 This is my first repository
-wassup niggas
+wassup guys
