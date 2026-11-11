@@ -3,4 +3,4 @@ This is my first repository
 wassup guys
 Experiencing the webstorm support for Git.
 This is very cool.
-hi bancod kamon aco
+I don't know what i am doing 
